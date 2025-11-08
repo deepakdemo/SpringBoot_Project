@@ -14,6 +14,7 @@ public class EazyschoolApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EazyschoolApplication.class, args);
+        System.out.println("message printed");
 	}
 
 }
